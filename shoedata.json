@@ -1,0 +1,167 @@
+[
+  {
+    "Id": "1",
+    "BrandId": 1,
+    "ProductName": "Nike Air Max 90",
+    "GraphicName": "air_max_90.jpg",
+    "CostPrice": 75.0,
+    "MSRP": 120.0,
+    "QtyOnHand": 50,
+    "QtyOnBackOrder": 10,
+    "Description": "The Nike Air Max 90 is a classic sneaker known for its comfortable Air cushioning and timeless design."
+  },
+  {
+    "Id": "2",
+    "BrandId": 1,
+    "ProductName": "Nike Zoom Pegasus 37",
+    "GraphicName": "zoom_pegasus_37.jpg",
+    "CostPrice": 85.0,
+    "MSRP": 130.0,
+    "QtyOnHand": 30,
+    "QtyOnBackOrder": 5,
+    "Description": "The Nike Zoom Pegasus 37 is a versatile running shoe with responsive cushioning and a lightweight design."
+  },
+  {
+    "Id": "3",
+    "BrandId": 1,
+    "ProductName": "Nike React Infinity Run",
+    "GraphicName": "react_infinity_run.jpg",
+    "CostPrice": 95.0,
+    "MSRP": 150.0,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 2,
+    "Description": "The Nike React Infinity Run is a running shoe designed to help reduce the risk of injury and keep you comfortable on your runs."
+  },
+  {
+    "Id": "4",
+    "BrandId": 1,
+    "ProductName": "Nike Air Force 1",
+    "GraphicName": "air_force_1.jpg",
+    "CostPrice": 80.0,
+    "MSRP": 120.0,
+    "QtyOnHand": 45,
+    "QtyOnBackOrder": 8,
+    "Description": "The Nike Air Force 1 is a classic basketball shoe that offers style and comfort for everyday wear."
+  },
+  {
+    "Id": "5",
+    "BrandId": 1,
+    "ProductName": "Nike Free RN 5.0",
+    "GraphicName": "free_rn_5.0.jpg",
+    "CostPrice": 70.0,
+    "MSRP": 100.0,
+    "QtyOnHand": 60,
+    "QtyOnBackOrder": 12,
+    "Description": "The Nike Free RN 5.0 is a lightweight running shoe that provides a barefoot-like feel and flexibility."
+  },
+  {
+    "Id": "6",
+    "BrandId": 2,
+    "ProductName": "Adidas Ultraboost 21",
+    "GraphicName": "ultraboost_21.jpg",
+    "CostPrice": 120.0,
+    "MSRP": 180.0,
+    "QtyOnHand": 40,
+    "QtyOnBackOrder": 6,
+    "Description": "The Adidas Ultraboost 21 is a high-performance running shoe with responsive cushioning and a sleek design."
+  },
+  {
+    "Id": "7",
+    "BrandId": 2,
+    "ProductName": "Adidas Stan Smith",
+    "GraphicName": "stan_smith.jpg",
+    "CostPrice": 60.0,
+    "MSRP": 90.0,
+    "QtyOnHand": 25,
+    "QtyOnBackOrder": 3,
+    "Description": "The Adidas Stan Smith is an iconic tennis shoe known for its clean and timeless design."
+  },
+  {
+    "Id": "8",
+    "BrandId": 2,
+    "ProductName": "Adidas NMD R1",
+    "GraphicName": "nmd_r1.jpg",
+    "CostPrice": 90.0,
+    "MSRP": 130.0,
+    "QtyOnHand": 35,
+    "QtyOnBackOrder": 4,
+    "Description": "The Adidas NMD R1 combines modern style with comfort, featuring a lightweight knit upper and responsive cushioning."
+  },
+  {
+    "Id": "9",
+    "BrandId": 2,
+    "ProductName": "Adidas Superstar",
+    "GraphicName": "superstar.jpg",
+    "CostPrice": 70.0,
+    "MSRP": 100.0,
+    "QtyOnHand": 50,
+    "QtyOnBackOrder": 10,
+    "Description": "The Adidas Superstar is a classic sneaker with a signature shell toe and timeless design."
+  },
+  {
+    "Id": "10",
+    "BrandId": 2,
+    "ProductName": "Adidas Yeezy Boost 350",
+    "GraphicName": "yeezy_boost_350.jpg",
+    "CostPrice": 200.0,
+    "MSRP": 250.0,
+    "QtyOnHand": 15,
+    "QtyOnBackOrder": 1,
+    "Description": "The Adidas Yeezy Boost 350 is a highly sought-after sneaker designed by Kanye West, known for its unique style and limited availability."
+  },
+  {
+    "Id": "11",
+    "BrandId": 3,
+    "ProductName": "Puma Suede Classic",
+    "GraphicName": "suede_classic.jpg",
+    "CostPrice": 50.0,
+    "MSRP": 80.0,
+    "QtyOnHand": 55,
+    "QtyOnBackOrder": 7,
+    "Description": "The Puma Suede Classic is an iconic sneaker with a suede upper and a timeless design that never goes out of style."
+  },
+  {
+    "Id": "12",
+    "BrandId": 3,
+    "ProductName": "Puma RS-X Reinvention",
+    "GraphicName": "rsx_reinvention.jpg",
+    "CostPrice": 90.0,
+    "MSRP": 120.0,
+    "QtyOnHand": 30,
+    "QtyOnBackOrder": 4,
+    "Description": "The Puma RS-X Reinvention is a retro-inspired sneaker with a chunky silhouette and vibrant colorways."
+  },
+  {
+    "Id": "13",
+    "BrandId": 3,
+    "ProductName": "Puma Cell Endura",
+    "GraphicName": "cell_endura.jpg",
+    "CostPrice": 80.0,
+    "MSRP": 110.0,
+    "QtyOnHand": 25,
+    "QtyOnBackOrder": 2,
+    "Description": "The Puma Cell Endura is a running shoe with a unique design and advanced cushioning technology for enhanced comfort and support."
+  },
+  {
+    "Id": "14",
+    "BrandId": 3,
+    "ProductName": "Puma Cali",
+    "GraphicName": "cali.jpg",
+    "CostPrice": 65.0,
+    "MSRP": 100.0,
+    "QtyOnHand": 40,
+    "QtyOnBackOrder": 5,
+    "Description": "The Puma Cali is a classic tennis-inspired sneaker with a clean and minimalist design, perfect for everyday wear."
+  },
+  {
+    "Id": "15",
+    "BrandId": 3,
+    "ProductName": "Puma Thunder Spectra",
+    "GraphicName": "thunder_spectra.jpg",
+    "CostPrice": 95.0,
+    "MSRP": 140.0,
+    "QtyOnHand": 20,
+    "QtyOnBackOrder": 3,
+    "Description": "The Puma Thunder Spectra is a retro-inspired sneaker with a bulky silhouette and vibrant color-blocking for a bold and eye-catching look."
+  }
+]
